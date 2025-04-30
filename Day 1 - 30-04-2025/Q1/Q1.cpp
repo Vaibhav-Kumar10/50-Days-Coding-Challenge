@@ -1,13 +1,26 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
-    int missingNumber(vector<int>& nums) {
-        int total = 0, req = 0;
-        for(int i = 1; i <= nums.size(); i++){
-            total += i;
+    ListNode* reverseList(ListNode* head) {
+        ListNode* current = head;
+        ListNode* left = NULL;
+
+        while (current != NULL) {
+            ListNode* right = head;
+            right = current->next;
+            current->next = left;
+            left = current;
+            current = right;
         }
-        for(int i = 0; i < nums.size(); i++){
-            req += nums[i];
-        }
-        return total - req;
+        return left;
     }
 };
