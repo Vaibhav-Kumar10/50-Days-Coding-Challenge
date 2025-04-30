@@ -23,7 +23,7 @@ This challenge is especially designed for **Second Year students** to build stro
 
 | Day | DSA Problem | Fundamentals Problem | Folder |
 |-----|-------------|----------------------|--------|
-| 1   | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Missing Number](https://leetcode.com/problems/missing-number/) | [📁 Day01](./Day1-30-04-2025) |
+| 1   | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Missing Number](https://leetcode.com/problems/missing-number/) | [📁 Day01](./Day%201%20-%2030-04-2025)
 | 2   | TBA | TBA | [📁 Day02](./Day02) |
 | 3   | TBA | TBA | [📁 Day03](./Day03) |
 <!-- Update daily -->
