@@ -18,14 +18,17 @@ This challenge is especially designed for **Second Year students** to build stro
 
 ---
 
+
 ## 📅 Daily Problem Log
 
-| Day | DSA Problem | Fundamentals Problem | Status |
+| Day | DSA Problem | Fundamentals Problem | Folder |
 |-----|-------------|----------------------|--------|
-| 1   | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Missing Number](https://leetcode.com/problems/missing-number/) | ✅ |
-| 2   | TBA | TBA | 🔜 |
-| 3   | TBA | TBA | 🔜 |
+| 1   | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Missing Number](https://leetcode.com/problems/missing-number/) | [📁 Day01](./Day01) |
+| 2   | TBA | TBA | [📁 Day02](./Day02) |
+| 3   | TBA | TBA | [📁 Day03](./Day03) |
 <!-- Update daily -->
+
+
 
 ---
 
