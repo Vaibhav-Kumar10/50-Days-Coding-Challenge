@@ -56,6 +56,7 @@ This challenge is especially designed for **Second Year students** to build stro
 > "Consistency is more important than intensity."  
 > – This challenge is a step towards becoming a better problem solver, one day at a time.
 
+> "Work Hard, Succes is Yours."
 ---
 
 ## 🙌 Acknowledgements
