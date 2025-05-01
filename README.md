@@ -1,79 +1,108 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=1BC3E1&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%9A%80+50+Days+Coding+Challenge+%E2%80%93+VIT+Bhopal+x+FACE+Prep+%F0%9F%92%BB" />
+</p>
+
+---
+
 # 🚀 50 Days Coding Challenge – VIT Bhopal x FACE Prep 💻
 
-Welcome to my journey through the **#DrGViswanathan Coding Challenge**, an initiative by **VIT Bhopal University** in collaboration with our training partner **FACE Prep**, aimed at celebrating **Mother’s Day** and **Father’s Day** by fostering discipline, consistency, and growth among students.
+Welcome to my journey through the **#DrGViswanathan Coding Challenge**, an initiative by **VIT Bhopal University** in collaboration with **FACE Prep**, celebrating **Mother’s Day** and **Father’s Day** through 50 days of consistent growth, problem-solving, and self-discipline. 💡
 
-Over the next 50 days, I’ll be solving **two coding problems daily**:
-- One from **Data Structures**
-- One based on **Programming Fundamentals**
-
-This challenge is especially designed for **Second Year students** to build strong problem-solving skills for both **product-based** and **service-based** company placements.
+🧠 **Goal:** Solve **2 coding problems daily**:  
+- 1️⃣ **Data Structures & Algorithms**  
+- 2️⃣ **Programming Fundamentals**
 
 ---
 
 ## 🔁 Challenge Format
 
-- 📥 New problems every day
-- ⏰ 24 hours to solve them
-- 📹 Video solutions and next challenges released daily
+- 🎯 **Daily Problems** (2x)
+- ⏱️ **24-Hour Deadline**
+- 🎥 **Daily Video Solutions**
 
 ---
 
-
 ## 📅 Daily Problem Log
 
-| Day | DSA Problem | Fundamentals Problem | Folder |
-|-----|-------------|----------------------|--------|
-| 1   | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Missing Number](https://leetcode.com/problems/missing-number/) | [📁 Day01](./Day%201%20-%2030-04-2025)
-| 2   | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Add Digits](https://leetcode.com/problems/add-digits/) | [📁 Day02](./Day%202%20-%2001-05-2025) |
-| 3   | TBA | TBA | [📁 Day03](./Day03) |
-<!-- Update daily -->
-
+| 📆 Day | 🧠 DSA Problem | 💡 Fundamentals Problem | 📂 Folder |
+|:-----:|:--------------|:------------------------|:--------:|
+| ✅ Day 1 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Missing Number](https://leetcode.com/problems/missing-number/) | [📁 Day01](./Day%201%20-%2030-04-2025) |
+| ✅ Day 2 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Add Digits](https://leetcode.com/problems/add-digits/) | [📁 Day02](./Day%202%20-%2001-05-2025) |
+| ⏳ Day 3 | TBA | TBA | [📁 Day03](./Day03) |
 
 ---
 
 ## 🧠 Topics Covered
-- Arrays
-- Linked Lists
-- Math & Logic
-- Strings
-- Hashing
-- Recursion
-- Searching & Sorting
-- and more…
+
+<div align="center">
+  
+| 📚 Topics |
+|-----------|
+| Arrays |
+| Linked Lists |
+| Math & Logic |
+| Strings |
+| Hashing |
+| Recursion |
+| Searching & Sorting |
+| STL (Standard Template Library) |
+| Time & Space Optimization |
+| Bit Manipulation |
+  
+</div>
 
 ---
 
 ## 🛠️ Tools Used
-- [LeetCode](https://leetcode.com/)
-- C++ (primary language for solutions)
-- Git & GitHub for version control
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-## 💡 Motivation
+## ✨ Motivation
 
-> "Consistency is more important than intensity."  
-> – This challenge is a step towards becoming a better problem solver, one day at a time.
+> “🧠 Consistency is more important than intensity.”  
+> — A step every day makes you stronger tomorrow.
 
-> "Work Hard, Succes is Yours."
+> “💪 Work hard, success is yours.”  
+> — Let’s win each day by 1% growth.
+
 ---
 
-## 🙌 Acknowledgements
+## 👏 Acknowledgements
 
-Special thanks to:
-- **VIT Bhopal University**
-- **FACE Prep**
-- **Sriram R Sir** – for always encouraging us to push our limits and strive for excellence.
+Special thanks to:  
+- 🎓 **VIT Bhopal University**  
+- 🤝 **FACE Prep**  
+- 💬 **Sriram R Sir** — for motivating us to keep improving!
 
 ---
 
 ## 📌 Connect with Me
 
-Let’s connect and grow together!  
-🔗 [LinkedIn Profile](www.linkedin.com/in/vaibhav-kumar-87557528a)
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaibhav-kumar-87557528a/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-**Let’s code every day and make these 50 days count! 💪**
+<p align="center">
+  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="200"/>
+</p>
 
-#CodingChallenge #Leetcode #DSA #VITBhopal #FACEPrep #DrGViswanathanChallenge #Consistency #SriramSir #DailyCoding
+<p align="center">
+  <strong>Let’s code every day and make these 50 days count! 💪</strong>  
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Everyday-blueviolet?style=flat-square&logo=visualstudio" />
+  <img src="https://img.shields.io/badge/Leetcode-Progress-brightgreen?style=flat-square&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Growth-Tracker-yellow?style=flat-square&logo=github" />
+</p>
