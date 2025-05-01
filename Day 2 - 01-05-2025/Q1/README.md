@@ -1,4 +1,4 @@
-# 🧩 Day 1 – Q1: Reverse Linked List
+# 🧩 Day 2 – Q1: Middle of the Linked List
 
 **LeetCode Problem:** [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)  
 **Difficulty:** Easy  
