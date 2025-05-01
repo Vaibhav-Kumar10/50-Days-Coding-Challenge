@@ -2,8 +2,8 @@
 
 **LeetCode Problem:** [258. Add Digits](https://leetcode.com/problems/add-digits/)  
 **Difficulty:** Easy  
-**Topic:** Math, Simulation, Number Theory, Digital Root
-**Tags:**  Programming Fundamentals, Recursion, Logic, Simulation
+**Topic:** Math, Simulation, Number Theory, Digital Root    
+**Tags:**  Programming Fundamentals, Recursion, Logic, Simulation   
 
 ---
 
