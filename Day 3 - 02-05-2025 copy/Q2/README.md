@@ -1,6 +1,6 @@
-# 🧩 Day 2 – Q2: Add Digits
+# 🧩 Day 3 – Q2: Perfect Number
 
-**LeetCode Problem:** [258. Add Digits](https://leetcode.com/problems/add-digits/)  
+**LeetCode Problem:** [507. Perfect Number](https://leetcode.com/problems/perfect-number/)  
 **Difficulty:** Easy  
 **Topic:** Math, Simulation, Number Theory, Digital Root    
 **Tags:**  Programming Fundamentals, Recursion, Logic, Simulation   
@@ -9,7 +9,9 @@
 
 ## 📄 Problem Statement
 
-Given an integer `num`, repeatedly add all its digits until the result has only one digit, and return it.
+A [perfect number](https://en.wikipedia.org/wiki/Perfect_number) is a positive integer that is equal to the sum of its positive divisors, excluding the number itself. A divisor of an integer `x` is an integer that can divide `x` evenly.
+
+Given an integer `n`, return `true` if `n` is a perfect number, otherwise return `false`.
 
 ---
 
@@ -18,32 +20,27 @@ Given an integer `num`, repeatedly add all its digits until the result has only 
 
 ### Example 1:
 
-Input: num = 38
+Input: num = 28
 
-Output: 2
+Output: true
 
-Explanation: The process is
+Explanation: 28 = 1 + 2 + 4 + 7 + 14
 
-38 --> 3 + 8 --> 11
-
-11 --> 1 + 1 --> 2 
-
-Since 2 has only one digit, return it.
+1, 2, 4, 7, and 14 are all divisors of 28.
 
 
 ### Example 2:
 
-Input: num = 0
+Input: num = 7
 
-Output: 0
+Output: false
 
 ---
 
 ## ✅ Constraints
 
+- `1 <= num <= 108`
 
-- `0 <= num <= 231 - 1`
-- 
 ---
 
 ## 📁 File
