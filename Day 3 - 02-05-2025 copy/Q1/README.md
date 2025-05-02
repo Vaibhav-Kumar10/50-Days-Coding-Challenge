@@ -1,6 +1,6 @@
-# 🧩 Day 2 – Q1: Middle of the Linked List
+# 🧩 Day 3 – Q1: Merge Two Sorted Lists
 
-**LeetCode Problem:** [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)  
+**LeetCode Problem:** [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  
 **Difficulty:** Easy  
 **Topic:** Linked List  
 **Tags:** Data Structures, Recursion, Iteration
@@ -9,37 +9,41 @@
 
 ## 📄 Problem Statement
 
-Given the head of a singly linked list, reverse the list and return the reversed list.
+You are given the heads of two sorted linked lists list1 and list2.
 
+Merge the two lists into one sorted list. The list should be made by splicing together the nodes of the first two lists.
+
+Return the head of the merged linked list.
 ---
 
 ## 🧠 Examples
 
 ### Example 1:
-![lc-midlist1](https://github.com/user-attachments/assets/b570a999-71a7-4166-8889-7aec6cc85983)
+![lc-mergelist](https://assets.leetcode.com/uploads/2020/10/03/merge_ex1.jpg)
 
-Input: head = [1,2,3,4,5]
+Input: list1 = [1,2,4], list2 = [1,3,4]
 
-Output: [3,4,5]
-
-Explanation: The middle node of the list is node 3.
+Output: [1,1,2,3,4,4]
 
 
 ### Example 2:
-![lc-midlist2](https://github.com/user-attachments/assets/c19f13d8-8bf9-401c-9c77-87b16a254380)
 
-Input: head = [1,2,3,4,5,6]
+Input: list1 = [], list2 = []
 
-Output: [4,5,6]
+Output: []
 
-Explanation: Since the list has two middle nodes with values 3 and 4, we return the second one.
+### Example 3:
 
- 
+Input: list1 = [], list2 = [0]
+
+Output: [0]
+
 ---
 
 ## ✅ Constraints
-- The number of nodes in the list is in the range `[1, 100]`.
-- `1 <= Node.val <= 100`
+-  The number of nodes in both lists is in the range `[0, 50]`.
+-  `-100 <= Node.val <= 100`
+-  Both `list1` and `list2` are sorted in non-decreasing order.
 
 ---
 
