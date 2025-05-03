@@ -29,6 +29,7 @@ Welcome to my journey through the **#DrGViswanathan Coding Challenge**, an initi
 | ✅ Day 1 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Missing Number](https://leetcode.com/problems/missing-number/) | [📁 Day01](./Day%201%20-%2030-04-2025) |
 | ✅ Day 2 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Add Digits](https://leetcode.com/problems/add-digits/) | [📁 Day02](./Day%202%20-%2001-05-2025) |
 | ✅ Day 3 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [ Perfect Number](https://leetcode.com/problems/perfect-number/) | [📁 Day03](./Day%203%20-%2002-05-2025) |
+| ✅ Day 4 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)  | [Perfect Number](https://leetcode.com/problems/palindrome-number/) | [📁 Day03](./Day%204%20-%2003-05-2025) |
 
 ---
 
