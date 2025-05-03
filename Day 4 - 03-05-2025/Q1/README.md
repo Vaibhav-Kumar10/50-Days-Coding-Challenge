@@ -1,6 +1,6 @@
 # 🧩 Day 4 – Q1: Linked List Cycle
 
-**LeetCode Problem:** [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)  
+**LeetCode Problem:** [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)  
 **Difficulty:** Easy  
 **Topic:** Linked List  
 **Tags:** Data Structures, Recursion, Iteration, Hash Table, Two Pointers
