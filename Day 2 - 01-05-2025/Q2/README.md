@@ -41,9 +41,9 @@ Output: 0
 
 ## ✅ Constraints
 
+- `0 <= num <= 2^31 - 1`
 
-- `0 <= num <= 231 - 1`
-- 
+
 ---
 
 ## 📁 File
