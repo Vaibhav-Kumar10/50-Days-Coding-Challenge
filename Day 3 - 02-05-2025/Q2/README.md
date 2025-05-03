@@ -39,7 +39,7 @@ Output: false
 
 ## ✅ Constraints
 
-- `1 <= num <= 108`
+- `1 <= num <= 10^8`
 
 ---
 
