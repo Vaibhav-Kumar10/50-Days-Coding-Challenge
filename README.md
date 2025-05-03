@@ -36,18 +36,18 @@ Welcome to my journey through the **#DrGViswanathan Coding Challenge**, an initi
 
 <div align="center">
   
-| 📚 Topics |
-|-----------|
-| Arrays |
-| Linked Lists |
-| Math & Logic |
-| Strings |
-| Hashing |
-| Recursion |
-| Searching & Sorting |
-| STL (Standard Template Library) |
-| Time & Space Optimization |
-| Bit Manipulation |
+| 📚 Topics |  
+|-----------|  
+| Arrays |  
+| Linked Lists |  
+| Math & Logic |  
+| Strings |  
+| Hashing |  
+| Recursion |  
+| Searching & Sorting |  
+| STL (Standard Template Library) |  
+| Time & Space Optimization |  
+| Bit Manipulation |  
   
 </div>
 
