@@ -1,6 +1,6 @@
 # 🧩 Day 4 – Q1: Linked List Cycle
 
-**LeetCode Problem:** [141. Linked List Cycle](https://leetcode.com/problems/merge-two-sorted-lists/)  
+**LeetCode Problem:** [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)  
 **Difficulty:** Easy  
 **Topic:** Linked List  
 **Tags:** Data Structures, Recursion, Iteration, Hash Table, Two Pointers
@@ -21,7 +21,7 @@ Return `true` if there is a cycle in the linked list. Otherwise, return `false`.
 
 ### Example 1:
 
-![lc-mergelist](https://assets.leetcode.com/uploads/2020/10/03/merge_ex1.jpg)
+![lc-listcycle-1](https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist.png)
 
 Input: head = [3,2,0,-4], pos = 1
 
@@ -31,6 +31,8 @@ Explanation: There is a cycle in the linked list, where the tail connects to the
 
 ### Example 2:
 
+![lc-listcycle-2](https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist_test2.png)
+
 Input: head = [1,2], pos = 0
 
 Output: true
@@ -38,6 +40,8 @@ Output: true
 Explanation: There is a cycle in the linked list, where the tail connects to the 0th node.
 
 ### Example 3:
+
+![lc-listcycle-3](https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist_test3.png)
 
 Input: head = [1], pos = -1
 
