@@ -8,8 +8,9 @@
 
 Welcome to my journey through the **#DrGViswanathan Coding Challenge**, an initiative by **VIT Bhopal University** in collaboration with **FACE Prep**, celebrating **Mother’s Day** and **Father’s Day** through 50 days of consistent growth, problem-solving, and self-discipline. 💡
 
-🧠 **Goal:** Solve **2 coding problems daily**:  
-- 1️⃣ **Data Structures & Algorithms**  
+🧠 **Goal:** Solve **2 coding problems daily**:
+
+- 1️⃣ **Data Structures & Algorithms**
 - 2️⃣ **Programming Fundamentals**
 
 ---
@@ -24,32 +25,29 @@ Welcome to my journey through the **#DrGViswanathan Coding Challenge**, an initi
 
 ## 📅 Daily Problem Log
 
-| 📆 Day | 🧠 DSA Problem | 💡 Fundamentals Problem | 📂 Folder |
-|:-----:|:--------------|:------------------------|:--------:|
-| ✅ Day 1 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Missing Number](https://leetcode.com/problems/missing-number/) | [📁 Day01](./Day%201%20-%2030-04-2025) |
-| ✅ Day 2 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Add Digits](https://leetcode.com/problems/add-digits/) | [📁 Day02](./Day%202%20-%2001-05-2025) |
-| ✅ Day 3 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [ Perfect Number](https://leetcode.com/problems/perfect-number/) | [📁 Day03](./Day%203%20-%2002-05-2025) |
-| ✅ Day 4 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)  | [Perfect Number](https://leetcode.com/problems/palindrome-number/) | [📁 Day04](./Day%204%20-%2003-05-2025) |
+|  📆 Day  | 🧠 DSA Problem                                                                        | 💡 Fundamentals Problem                                                     |               📂 Folder                |
+| :------: | :------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------- | :------------------------------------: |
+| ✅ Day 1 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)             | [Missing Number](https://leetcode.com/problems/missing-number/)             | [📁 Day01](./Day%201%20-%2030-04-2025) |
+| ✅ Day 2 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Add Digits](https://leetcode.com/problems/add-digits/)                     | [📁 Day02](./Day%202%20-%2001-05-2025) |
+| ✅ Day 3 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)       | [ Perfect Number](https://leetcode.com/problems/perfect-number/)            | [📁 Day03](./Day%203%20-%2002-05-2025) |
+| ✅ Day 4 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                 | [Perfect Number](https://leetcode.com/problems/palindrome-number/)          | [📁 Day04](./Day%204%20-%2003-05-2025) |
+| ✅ Day 5 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)       | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [📁 Day05](./Day%205%20-%2004-05-2025) |
 
 ---
 
 ## 🧠 Topics Covered
 
-<div align="center">
-  
-| 📚 Topics |  
-|-----------|  
-| Arrays |  
-| Linked Lists |  
-| Math & Logic |  
-| Strings |  
-| Hashing |  
-| Recursion |  
-| Searching & Sorting |  
-| STL (Standard Template Library) |  
-| Time & Space Optimization |  
-| Bit Manipulation |  
-  
+- Arrays
+- Linked Lists
+- Math & Logic
+- Strings
+- Hashing
+- Recursion
+- Searching & Sorting
+- STL (Standard Template Library)
+- Time & Space Optimization
+- Bit Manipulation
+
 </div>
 
 ---
@@ -77,9 +75,10 @@ Welcome to my journey through the **#DrGViswanathan Coding Challenge**, an initi
 
 ## 👏 Acknowledgements
 
-Special thanks to:  
-- 🎓 **VIT Bhopal University**  
-- 🤝 **FACE Prep**  
+Special thanks to:
+
+- 🎓 **VIT Bhopal University**
+- 🤝 **FACE Prep**
 - 💬 **Sriram R Sir** — for motivating us to keep improving!
 
 ---
