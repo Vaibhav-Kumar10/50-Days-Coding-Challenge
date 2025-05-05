@@ -1,9 +1,9 @@
 # 🧩 Day 6 – Q1: Remove Linked List Elements
 
-**LeetCode Problem:** [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
-**Difficulty:** Easy
-**Topic:** Linked List
-**Tags:** Data Structures, Iteration, Two Pointers
+**LeetCode Problem:** [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)   
+**Difficulty:** Easy  
+**Topic:** Linked List  
+**Tags:** Data Structures, Iteration, Two Pointers  
 
 ---
 
