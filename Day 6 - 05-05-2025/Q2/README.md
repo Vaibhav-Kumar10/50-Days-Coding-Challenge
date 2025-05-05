@@ -1,9 +1,9 @@
 # 🧩 Day 6 – Q2: Happy Number
 
-**LeetCode Problem:** [202. Happy Number](https://leetcode.com/problems/happy-number/)
-**Difficulty:** Easy
-**Topic:** Math, Hash Table, Two Pointers
-**Tags:** Simulation, Cycle Detection, Number Theory
+**LeetCode Problem:** [202. Happy Number](https://leetcode.com/problems/happy-number/)   
+**Difficulty:** Easy  
+**Topic:** Math, Hash Table, Two Pointers  
+**Tags:** Simulation, Cycle Detection, Number Theory  
 
 ---
 
