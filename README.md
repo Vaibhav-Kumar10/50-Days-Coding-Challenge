@@ -49,8 +49,6 @@ Welcome to my journey through the **#DrGViswanathan Coding Challenge**, an initi
 - Time & Space Optimization
 - Bit Manipulation
 
-</div>
-
 ---
 
 ## 🛠️ Tools Used
