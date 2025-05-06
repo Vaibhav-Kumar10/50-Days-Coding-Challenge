@@ -32,7 +32,8 @@ Welcome to my journey through the **#DrGViswanathan Coding Challenge**, an initi
 | ✅ Day 3 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)           | [ Perfect Number](https://leetcode.com/problems/perfect-number/)            | [📁 Day03](./Day%203%20-%2002-05-2025) |
 | ✅ Day 4 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                     | [Perfect Number](https://leetcode.com/problems/palindrome-number/)          | [📁 Day04](./Day%204%20-%2003-05-2025) |
 | ✅ Day 5 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)           | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [📁 Day05](./Day%205%20-%2004-05-2025) |
-| ✅ Day 6 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Happy Number](https://leetcode.com/problems/happy-number/description/)     | [📁 Day06](./Day%206%20-%2005-05-2025) |
+| ✅ Day 6 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Happy Number](https://leetcode.com/problems/happy-number/)                 | [📁 Day06](./Day%206%20-%2005-05-2025) |
+| ✅ Day 7 | [Rotate List](https://leetcode.com/problems/rotate-list)                                  | [Plus One](https://leetcode.com/problems/plus-one/)                         | [📁 Day07](./Day%207%20-%2006-05-2025) |
 
 ---
 
