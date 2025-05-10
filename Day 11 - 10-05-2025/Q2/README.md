@@ -1,8 +1,8 @@
 # 🧩 Day 11 – Q2: Factorial Trailing Zeroes
 
-**LeetCode Problem:** [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)
-**Difficulty:** Medium
-**Topic:** Math
+**LeetCode Problem:** [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)  
+**Difficulty:** Medium  
+**Topic:** Math  
 **Tags:** Number Theory, Counting, Factorials
 
 ---
