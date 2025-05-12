@@ -39,6 +39,7 @@ Welcome to my journey through the **#DrGViswanathan Coding Challenge**, an initi
 | ✅ Day 10 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list)               | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher)                                                   | [📁 Day10](./Day%210%20-%2009-05-2025)  |
 | ✅ Day 11 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)                             | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)                           | [📁 Day11](./Day%2011%20-%2010-05-2025) |
 | ✅ Day 12 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list) | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range) | [📁 Day12](./Day%2012%20-%2011-05-2025) |
+| ✅ Day 13 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)                   | [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array)         | [📁 Day13](./Day%2013%20-%2012-05-2025) |
 
 ---
 
