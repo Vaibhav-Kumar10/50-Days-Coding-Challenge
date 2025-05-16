@@ -43,6 +43,7 @@ Welcome to my journey through the **#DrGViswanathan Coding Challenge**, an initi
 | ✅ Day 14 | [Partition List](https://leetcode.com/problems/partition-list)                                                                 | [Reverse Integer](https://leetcode.com/problems/reverse-integer)                                               | [📁 Day14](./Day%2014%20-%2014-05-2025) |
 | ✅ Day 15 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)                                                               | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)                             | [📁 Day15](./Day%2015%20-%2014-05-2025) |
 | ✅ Day 16 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list)                                     | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers)                                   | [📁 Day16](./Day%2016%20-%2015-05-2025) |
+| ✅ Day 17 | [Min Stack](https://leetcode.com/problems/min-stack)                                                                           | [Two Sum](https://leetcode.com/problems/two-sum)                                                               | [📁 Day17](./Day%2017%20-%2016-05-2025) |
 
 ---
 
