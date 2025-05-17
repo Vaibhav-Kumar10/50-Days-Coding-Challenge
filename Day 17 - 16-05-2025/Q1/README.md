@@ -1,4 +1,4 @@
-## 🧩 **Day 16 – Q2: Min Stack**
+## 🧩 **Day 17 – Q2: Min Stack**
 
 **LeetCode Problem:** [155. Min Stack](https://leetcode.com/problems/min-stack)  
 **Difficulty:** Medium  
