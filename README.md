@@ -46,6 +46,7 @@ Welcome to my journey through the **#DrGViswanathan Coding Challenge**, an initi
 | ✅ Day 17 | [Min Stack](https://leetcode.com/problems/min-stack)                                                                           | [Two Sum](https://leetcode.com/problems/two-sum)                                                               | [📁 Day17](./Day%2017%20-%2016-05-2025) |
 | ✅ Day 18 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)                                     | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)                                         | [📁 Day18](./Day%2018%20-%2017-05-2025) |
 | ✅ Day 19 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                                                           | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)               | [📁 Day19](./Day%2019%20-%2018-05-2025) |
+| ✅ Day 20 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)                             | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array)   | [📁 Day20](./Day%2020%20-%2019-05-2025) |
 
 ---
 
