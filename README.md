@@ -49,6 +49,7 @@ Welcome to my journey through the **#DrGViswanathan Coding Challenge**, an initi
 | ✅ Day 20 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)                             | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array)   | [📁 Day20](./Day%2020%20-%2019-05-2025) |
 | ✅ Day 21 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string)                                             | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)                                      | [📁 Day21](./Day%2021%20-%2020-05-2025) |
 | ✅ Day 22 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses)             | [Majority Element](https://leetcode.com/problems/majority-element)                                             | [📁 Day22](./Day%2022%20-%2021-05-2025) |
+| ✅ Day 23 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)                                           | [Search Insert Position](https://leetcode.com/problems/search-insert-position)                                 | [📁 Day23](./Day%2023%20-%2022-05-2025) |
 
 ---
 
