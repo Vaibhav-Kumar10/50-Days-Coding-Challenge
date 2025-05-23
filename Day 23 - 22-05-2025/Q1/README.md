@@ -1,4 +1,4 @@
-## 🧩 **Day 22 – Q1: Longest Valid Parentheses**
+## 🧩 **Day 23 – Q1: Longest Valid Parentheses**
 
 **LeetCode Problem:** [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)  
 **Difficulty:** Hard  
