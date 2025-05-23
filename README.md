@@ -50,6 +50,7 @@ Welcome to my journey through the **#DrGViswanathan Coding Challenge**, an initi
 | ✅ Day 21 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string)                                             | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)                                      | [📁 Day21](./Day%2021%20-%2020-05-2025) |
 | ✅ Day 22 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses)             | [Majority Element](https://leetcode.com/problems/majority-element)                                             | [📁 Day22](./Day%2022%20-%2021-05-2025) |
 | ✅ Day 23 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)                                           | [Search Insert Position](https://leetcode.com/problems/search-insert-position)                                 | [📁 Day23](./Day%2023%20-%2022-05-2025) |
+| ✅ Day 24 | [Basic Calculator](https://leetcode.com/problems/basic-calculator)                                                             | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                      | [📁 Day24](./Day%2024%20-%2023-05-2025) |
 
 ---
 
