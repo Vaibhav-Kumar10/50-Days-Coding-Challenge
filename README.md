@@ -53,6 +53,7 @@ Welcome to my journey through the **#DrGViswanathan Coding Challenge**, an initi
 | ✅ Day 24 | [Basic Calculator](https://leetcode.com/problems/basic-calculator)                                                             | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                                        | [📁 Day24](./Day%2024%20-%2023-05-2025) |
 | ✅ Day 25 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)                                     | [Rotate Array](https://leetcode.com/problems/rotate-array)                                                                                       | [📁 Day25](./Day%2025%20-%2024-05-2025) |
 | ✅ Day 26 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)                                   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [📁 Day26](./Day%2026%20-%2025-05-2025) |
+| ✅ Day 27 | [Path Sum](https://leetcode.com/problems/path-sum)                                                                             | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)                                                                               | [📁 Day27](./Day%2027%20-%2026-05-2025) |
 
 ---
 
