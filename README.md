@@ -56,6 +56,7 @@ Welcome to my journey through the **#DrGViswanathan Coding Challenge**, an initi
 | ✅ Day 27 | [Path Sum](https://leetcode.com/problems/path-sum)                                                                             | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)                                                                               | [📁 Day27](./Day%2027%20-%2026-05-2025) |
 | ✅ Day 28 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)                                     | [Number of Subarrays With LCM Equal to K](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k)                                 | [📁 Day28](./Day%2028%20-%2027-05-2025) |
 | ✅ Day 29 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)                                                         | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                                                | [📁 Day29](./Day%2029%20-%2028-05-2025) |
+| ✅ Day 30 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                              | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                                            | [📁 Day30](./Day%2030%20-%2029-05-2025) |
 
 ---
 
