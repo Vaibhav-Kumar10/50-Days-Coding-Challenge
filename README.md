@@ -59,6 +59,7 @@ Welcome to my journey through the **#DrGViswanathan Coding Challenge**, an initi
 | ✅ Day 30 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                              | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                                            | [📁 Day30](./Day%2030%20-%2029-05-2025) |
 | ✅ Day 31 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                    | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)                                                                            | [📁 Day31](./Day%2031%20-%2030-05-2025) |
 | ✅ Day 32 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                          | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                                      | [📁 Day32](./Day%2032%20-%2031-05-2025) |
+| ✅ Day 33 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)                                      | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/)                                    | [📁 Day33](./Day%2033%20-%2001-06-2025) |
 
 ---
 
