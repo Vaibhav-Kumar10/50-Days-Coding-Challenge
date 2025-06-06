@@ -64,6 +64,7 @@ Welcome to my journey through the **#DrGViswanathan Coding Challenge**, an initi
 | ✅ Day 35 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)              | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)                                                  | [📁 Day35](./Day%2035%20-%2003-06-2025) |
 | ✅ Day 36 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)                                            | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)                                                          | [📁 Day36](./Day%2036%20-%2004-06-2025) |
 | ✅ Day 37 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)            | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)                          | [📁 Day37](./Day%2037%20-%2005-06-2025) |
+| ✅ Day 38 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)                                | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                              | [📁 Day37](./Day%2038%20-%2006-06-2025) |
 
 ---
 
