@@ -68,6 +68,7 @@ Welcome to my journey through the **#DrGViswanathan Coding Challenge**, an initi
 | ✅ Day 39 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)                             | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)                              | [📁 Day39](./Day%2039%20-%2007-06-2025) |
 | ✅ Day 40 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Rotate String](https://leetcode.com/problems/rotate-string/)                                                                                    | [📁 Day40](./Day%2040%20-%2008-06-2025) |
 | ✅ Day 41 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)                                                     | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                                    | [📁 Day41](./Day%2041%20-%2009-06-2025) |
+| ✅ Day 42 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                       | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                                            | [📁 Day42](./Day%2042%20-%2010-06-2025) |
 
 ---
 
