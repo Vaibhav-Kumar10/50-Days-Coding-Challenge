@@ -71,6 +71,7 @@ Welcome to my journey through the **#DrGViswanathan Coding Challenge**, an initi
 | ✅ Day 42 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                       | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                                             | [📁 Day42](./Day%2042%20-%2010-06-2025) |
 | ✅ Day 43 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                   | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)                                                                             | [📁 Day43](./Day%2043%20-%2011-06-2025) |
 | ✅ Day 44 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)           | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [📁 Day44](./Day%2044%20-%2012-06-2025) |
+| ✅ Day 45 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)                                                       | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                                           | [📁 Day45](./Day%2045%20-%2013-06-2025) |
 
 ---
 
