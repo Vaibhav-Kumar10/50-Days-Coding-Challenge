@@ -76,6 +76,7 @@ Welcome to my journey through the **#DrGViswanathan Coding Challenge**, an initi
 | ✅ Day 47 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                                               | [📁 Day47](./Day%2047%20-%2015-06-2025) |
 | ✅ Day 48 | [Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)                                                   | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)                                                                               | [📁 Day48](./Day%2048%20-%2016-06-2025) |
 | ✅ Day 49 | [Count Primes](https://leetcode.com/problems/count-primes/)                                                                                 | [Single Number](https://leetcode.com/problems/single-number/)                                                                                     | [📁 Day49](./Day%2049%20-%2017-06-2025) |
+| ✅ Day 50 | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)                                                                     | [📁 Day50](./Day%2050%20-%2018-06-2025)                                                                                                           |
 
 ---
 
